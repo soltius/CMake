@@ -1,0 +1,5 @@
+cmake (3.14.4-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- jetson <jetson@unknown>  Wed, 28 Aug 2019 13:36:15 +1200
